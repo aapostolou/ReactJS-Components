@@ -1,0 +1,14 @@
+:root {
+  --main-bg-color: white;
+  --main-text-color: #333333;
+}
+
+* {
+  color: var(--main-text-color);
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
